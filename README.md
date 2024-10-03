@@ -1,5 +1,5 @@
 # apnacollege-demo
+
 This is my first Git Repository
 <br>
-Author- Netal Bajaj
-
+Author- Netal (Apna College)
